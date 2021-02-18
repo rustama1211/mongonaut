@@ -8,8 +8,8 @@ class Mongonaut extends Spawngo {
     return PROMISIFY(super.import(file))
   }
 
-  export (collection) {
-    return PROMISIFY(super.export(collection))
+  export (collection, pathFile) {
+    return PROMISIFY(super.export(collection, pathFile))
   }
 }
 
