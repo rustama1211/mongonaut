@@ -43,6 +43,6 @@
     "tap-nyan": "^1.1.0"
   },
   "dependencies": {
-    "spawngo": "2.0.0"
+    "spawngo": "https://github.com/rustama1211/spawngo.git"
   }
 }
